@@ -1,0 +1,22 @@
+{
+  "name": "MALBase",
+  "version": "0.1.0",
+  "summary": "A short description of MALBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mal666666@163.com/MALBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mal666666@163.com": "maal@pipilu.com"
+  },
+  "source": {
+    "git": "https://github.com/mal666666@163.com/MALBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MALBase/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module MALBase {
+  umbrella header "MALBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
